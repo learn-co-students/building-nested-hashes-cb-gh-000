@@ -1,6 +1,6 @@
 # Code Along Exercise: Building Nested Hashes
 
-## Objectives
+## Objectivesd
 
 1. Build a nested hash.
 2. Access and manipulate data in nested hashes.
